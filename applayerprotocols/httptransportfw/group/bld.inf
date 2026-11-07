@@ -90,8 +90,8 @@ PRJ_EXPORTS
 httpcore.iby	/epoc32/rom/include/httpcore.iby
 
 // Export the help files
-"../documentation/HTTP Client Public API.chm"			"/epoc32/engdoc/application-protocols/httpclientpublicapi.chm"
-"../documentation/HTTP Client Internal Documentation.chm"	"/epoc32/engdoc/application-protocols/httpclientinternaldocumentation.chm"
+//"../documentation/HTTP Client Public API.chm"			"/epoc32/engdoc/application-protocols/httpclientpublicapi.chm"
+//"../documentation/HTTP Client Internal Documentation.chm"	"/epoc32/engdoc/application-protocols/httpclientinternaldocumentation.chm"
 
 PRJ_TESTEXPORTS
 // top-level WSP includes
